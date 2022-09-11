@@ -2,13 +2,12 @@
 //  AppDelegate.swift
 //  MySecondApp
 //
-//  Created by Bill Skrzypczak on 9/10/20.
-//  Copyright © 2020 Bill Skrzypczak. All rights reserved.
+//  Created by Jonathan Kearns on 9/11/22.
 //
 
 import UIKit
 
-@UIApplicationMain
+@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
